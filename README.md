@@ -1,4 +1,4 @@
-## Object Oriented Design Presentations
+## Object Oriented Design Workshop
 
 ### Directions
 Today we're going to illustrate principles of object oriented design in Ruby by working in groups to create examples of patterns and antipatterns.  You will have 10-15 minutes in your group to create the presentation.  Then each group will present a 5 minute talk on the whiteboard with:
