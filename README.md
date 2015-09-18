@@ -16,7 +16,8 @@ Today we're going to illustrate principles of object oriented design in Ruby by 
 
 Everyone in the group must speak at least once during the presentation.
 
-The goal of this exercise is that every person in the cohort is familiar with the definitions of these principles and their implementation in ruby.
+### Goals
+- Every person in the cohort is familiar with the definitions of these principles and their implementation in ruby
 
 ## Resources
 
