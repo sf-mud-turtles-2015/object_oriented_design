@@ -20,4 +20,4 @@ The goal of this exercise is that every person in the cohort is familiar with th
 
 ## Resources
 
-[POODR concise reference][http://stharlow.tumblr.com/post/53808517270/poodr-book-reference]
+[POODR concise reference](http://stharlow.tumblr.com/post/53808517270/poodr-book-reference)
