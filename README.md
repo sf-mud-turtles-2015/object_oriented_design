@@ -8,11 +8,11 @@ Today we're going to illustrate principles of object oriented design in Ruby by 
 - a description of why the refactored code is better
 
 ### Principles
-- Single responsibility
-- Argument order independence
-- Dependency injection
-- Law of Demeter
-- Well-designed interfaces
+- Single responsibility - 2
+- Argument order independence - 3
+- Dependency injection - 4
+- Law of Demeter - 5
+- Well-designed interfaces - 1 
 
 Everyone in the group must speak at least once during the presentation.
 
